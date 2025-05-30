@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/your-github-username/your-repo-name/blob/main/assets/animated-name.gif" alt="Hi, I'm Md. Shoyaif Rahman" />
+<p align="center">HI
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Shoyaif+Rahman" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Computer Science Student | Passionate UI/UX Designer & Web Developer</h3>
