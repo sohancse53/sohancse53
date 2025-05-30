@@ -1,27 +1,7 @@
-<h1 align="center">
-  <span class="typewriter">Hi 👋, I'm Md. Shoyaif Rahman</span>
-</h1>
+<p align="center">
+  <img src="https://github.com/your-github-username/your-repo-name/blob/main/assets/animated-name.gif" alt="Hi, I'm Md. Shoyaif Rahman" />
+</p>
 
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink {
-  50% { border-color: transparent }
-}
-
-.typewriter {
-  display: inline-block;
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: 2px solid #000;
-  font-family: monospace;
-  font-size: 24px;
-  animation: typing 3.5s steps(40, end), blink 0.75s step-end infinite;
-}
-</style>
 <h3 align="center">Computer Science Student | Passionate UI/UX Designer & Web Developer</h3>
 
 <p align="center">
