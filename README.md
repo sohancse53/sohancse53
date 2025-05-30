@@ -1,14 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Shoyaif+Rahman" alt="Typing SVG Blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=48&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=HI+%F0%9F%91%8B%2C+I'M+MD.+SHOYAIF+RAHMAN" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Shoyaif+Rahman" alt="Typing SVG Coral" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C49A&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Shoyaif+Rahman" alt="Typing SVG Teal" />
-</p>
 
 <h3 align="center">Computer Science Student | Passionate UI/UX Designer & Web Developer</h3>
 
