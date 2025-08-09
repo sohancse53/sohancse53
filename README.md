@@ -22,7 +22,7 @@
 
 - 🎓 I'm currently pursuing **Computer Science Engineering**
 - 🧩 I have core knowledge in **C++**, **Java (OOP)**, and **Python**
-- 💻 Experienced with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**
+- 💻 Experienced with **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**
 - 🎨 I love crafting **intuitive UI/UX** and building seamless **web experiences**
 - 💡 Constantly learning new tools and improving design systems
 
