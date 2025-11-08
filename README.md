@@ -7,11 +7,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C++-blue?style=flat-square&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java" />
   <img src="https://img.shields.io/badge/Code-Python-yellow?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Frontend-HTML5-red?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/Frontend-CSS3-blue?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=flat-square&logo=bootstrap" />
   <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/Design-Figma-pink?style=flat-square&logo=figma" />
 </p>
