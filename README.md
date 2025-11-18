@@ -1,12 +1,12 @@
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=48&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=HI+%F0%9F%91%8B%2C+I'M+MD.+SHOYAIF+RAHMAN" alt="Typing SVG" />
-</p>
+
 <img src="https://i.ibb.co.com/dsrk6j0f/White-and-Blue-Minimalist-Freelance-Web-Developer-Linked-In-Banner.png" alt="banner img" />
 <h3 align="center">Computer Science Student | Passionate FrontEnd Developer</h3>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&fontSize=48&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=HI+%F0%9F%91%8B%2C+I'M+MD.+SHOYAIF+RAHMAN" alt="Typing SVG" />
+</p>
 
 ---
 
