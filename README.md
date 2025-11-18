@@ -42,14 +42,14 @@
 
 ---
 
-## 🎨 My Designs
+## 🎨 My projects
 
-<p align="center">
-  <img src="https://github.com/your-github-username/your-project-name/blob/main/assets/ui-sample1.png" width="300px" />
-  <img src="https://github.com/your-github-username/your-project-name/blob/main/assets/ui-sample2.png" width="300px" />
-</p>
+ - flooddy:(https://floody49.netlify.app/)
+ - Gamify:(https://gamify50.netlify.app/)
+ - ArtLane:(https://artlane50.netlify.app/)
 
-> 💡 *These are some sample interfaces I’ve designed. Check out my repositories for more!*
+
+
 
 ---
 
