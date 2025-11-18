@@ -3,7 +3,7 @@
 </p>
 
 
-<h3 align="center">Computer Science Student | Passionate UI/UX Designer & Web Developer</h3>
+<h3 align="center">Computer Science Student | Passionate FrontEnd Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C++-blue?style=flat-square&logo=c%2B%2B" />
