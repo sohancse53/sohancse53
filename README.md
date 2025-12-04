@@ -52,8 +52,8 @@
 
 - 📧 Email: **sohan0020p@gmail.com**
 - 🔗 LinkedIn: [md-shoyaif-rahman](https://www.linkedin.com/in/md-shoyaif-rahman/)
-- 🌐 Portfolio: _Coming Soon_
-
+- 🌐 Portfolio: [shoyaif](https://shoyaif-portfolio.netlify.app/
+)
 ---
 
 <p align="center">Thanks for visiting my profile! 🚀</p>
