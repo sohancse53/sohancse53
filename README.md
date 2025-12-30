@@ -13,6 +13,10 @@
 ## 🧠 About Me
 
 - 🎓 Md. Shoyaif Rahman is a passionate Front-End Developer and dedicated learner who loves building clean, responsive, and user-friendly web interfaces. Always exploring new technologies, he continuously improves his skills to grow as a modern, creative developer.**
+- 
+## 📈 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=sohancse53&theme=dark)](https://git.io/streak-stats)
+
 
 ### Current Activity
 <p align="left">
@@ -31,11 +35,9 @@
 
 ---
 
-## 📈 GitHub Stats
 
-![sohancse53's Stats](https://github-readme-stats.vercel.app/api?username=sohancse53&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![sohancse53's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohancse53&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
----
+
+
 
 ## 🎨 My projects
 
